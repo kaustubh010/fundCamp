@@ -154,7 +154,6 @@ Contribution
   - `action=buildTransaction` – Get unsigned transaction
   - `action=recordContribution` – Record contribution after signing
 - **`GET /api/contributions/[campaignId]`** – Get contributions for campaign
-
 ### Wallet Utilities
 - **`GET /api/wallet?action=validateAddress&address=ADDR`**
 - **`GET /api/wallet?action=getAccountInfo&address=ADDR`**
